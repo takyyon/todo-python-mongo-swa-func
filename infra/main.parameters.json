@@ -13,6 +13,9 @@
     },
     "useAPIM": {
       "value": "${USE_APIM=false}"
+    },
+    "resourceGroupName": {
+      "value": "${AZURE_RESOURCEGROUPNAME}
     }
   }
 }
