@@ -16,6 +16,9 @@
     },
     "resourceGroupName": {
       "value": "${AZURE_RESOURCEGROUPNAME}
+    },
+    "resourceGroupTags": {
+      "value": "${AZURE_TAGS}
     }
   }
 }
